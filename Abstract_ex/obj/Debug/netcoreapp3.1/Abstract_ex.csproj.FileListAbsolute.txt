@@ -1,0 +1,11 @@
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.exe
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.deps.json
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.runtimeconfig.json
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.runtimeconfig.dev.json
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.dll
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\bin\Debug\netcoreapp3.1\Abstract_ex.pdb
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\obj\Debug\netcoreapp3.1\Abstract_ex.csprojAssemblyReference.cache
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\obj\Debug\netcoreapp3.1\Abstract_ex.AssemblyInfoInputs.cache
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\obj\Debug\netcoreapp3.1\Abstract_ex.AssemblyInfo.cs
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\obj\Debug\netcoreapp3.1\Abstract_ex.dll
+C:\Users\Adm\source\repos\Abstract_ex\Abstract_ex\obj\Debug\netcoreapp3.1\Abstract_ex.pdb
